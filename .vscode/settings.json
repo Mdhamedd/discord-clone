@@ -1,0 +1,8 @@
+{
+  "editor.defaultFormatter": "Blackboxapp.blackbox",
+  "editor.mouseWheelZoom": true,
+  "workbench.editor.defaultBinaryEditor": "default",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
